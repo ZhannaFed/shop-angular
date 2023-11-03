@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Firebase hosting
 
-https://online-shop-12e72.web.app - Shop Website
+https://online-shop-12e72.web.app - Shop Website<br/>
 https://online-shop-12e72.web.app - Shop Admin (user: z@mail.ru, password: 123456)
 
 ## Development server
